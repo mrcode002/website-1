@@ -1,0 +1,152 @@
+<html>
+<div class="blankblack">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+<div class="name">
+	<h1 font-size=20px>CHANDRA GRANITES AND MARBLES</h1>
+</div>
+<style>
+	body{
+margin: 0;
+font-family: arial;
+background-image: url("https://media.istockphoto.com/photos/abstract-background-of-polygons-on-white-background-picture-id615822292?k=6&m=615822292&s=612x612&w=0&h=2ftdrs7hUk4ngqtNEViEiJteGc7mpaAtb5VltG_Bnls=");
+
+	}
+	.blankblack{
+		padding: 14px 16px;
+		background: black;
+	}
+	.footer{
+	padding: 14px 16px;
+	color: white;
+	background: black;
+	text-align: center;
+	font-family: arial;
+
+}
+.footer{
+	padding: 14px 16px;
+	color: white;
+	background: black;
+	text-align: center;
+	font-family: arial;
+
+}
+	.name{
+		
+		text-align: center;
+		color: black;
+		padding: 14px 16px;
+		background:whitesmoke;
+		font-family:Proxima Nova;
+	}
+	.aboutus{
+
+text-align: center;
+color: black;}
+
+.header {
+	
+	background: black;
+	
+	overflow: hidden;
+	
+}
+.header a{
+	text-align: center;
+	color: white;
+	padding: 14px 16px;
+	font-family: arial;
+	overflow: hidden;
+	font-size: 17px;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+
+}
+.header a:hover{
+	background:grey;
+color: white;
+}
+.header a.home{
+	background: grey;
+	color: white;
+}
+
+
+</style>
+
+<body style="background: cream;">
+	<div class="header">
+		>
+		<a class="home" href="file:///C:/Users/akhil/OneDrive/Desktop/website.html#">HOME</a>
+	
+	
+		<a  href="file:///C:/Users/akhil/OneDrive/Desktop/marbles.html">MARBLES</a>
+	
+		<a  href="file:///C:/Users/akhil/OneDrive/Desktop/granites.html">GRANITES</a>
+	
+	
+		<a  href="file:///C:/Users/akhil/OneDrive/Desktop/about%20us%20.html">ABOUT US</a>
+	
+	
+		<a  href="file:///C:/Users/akhil/OneDrive/Desktop/contact.html">CONTACT US</a>
+	
+	</div>
+
+<div style = "padding-center :20 px">
+
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="footer">
+	<h1>THE BEST QUALITY OF MARBLES AND GRANITES</h1>
+</div>
+	
+
+</html>
+</body>
